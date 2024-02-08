@@ -93,7 +93,7 @@ sfwOptions.optimized = true;
 sfwOptions.quality = 50;
 
 // Folder
-var saveFolder = new Folder('/Users/annika.schwartz/Lashbrook Dropbox/Lashbrook/New Product Photography/Editing/LCV/REVERSE INSIDE PATTERNS/test');
+var saveFolder = new Folder('/Users/amy.schrader/Lashbrook Dropbox/Lashbrook/New Product Photography/Editing/LCV/inside pattern fixes/READY TO UPLOAD');
 
 // Extension
 var saveExt = 'png';
